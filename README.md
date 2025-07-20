@@ -1,4 +1,4 @@
-# ConcurrencyDesignPatterns
+# Concurrency Design Patterns
 
 This repository contains basic implementations of Concurrency Design Patterns -- Design Patterns that solves problems arises when programming a multi-threaded or asynchronous prorams.
 
